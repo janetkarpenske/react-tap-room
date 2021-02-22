@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tap-room-2/static/css/main.66fc89a9.chunk.css",
+    "main.js": "/react-tap-room-2/static/js/main.3c246af0.chunk.js",
+    "main.js.map": "/react-tap-room-2/static/js/main.3c246af0.chunk.js.map",
+    "runtime-main.js": "/react-tap-room-2/static/js/runtime-main.aa34b439.js",
+    "runtime-main.js.map": "/react-tap-room-2/static/js/runtime-main.aa34b439.js.map",
+    "static/js/2.7a1bc4d0.chunk.js": "/react-tap-room-2/static/js/2.7a1bc4d0.chunk.js",
+    "static/js/2.7a1bc4d0.chunk.js.map": "/react-tap-room-2/static/js/2.7a1bc4d0.chunk.js.map",
+    "static/js/3.4308dc24.chunk.js": "/react-tap-room-2/static/js/3.4308dc24.chunk.js",
+    "static/js/3.4308dc24.chunk.js.map": "/react-tap-room-2/static/js/3.4308dc24.chunk.js.map",
+    "index.html": "/react-tap-room-2/index.html",
+    "precache-manifest.6c2710f166af32f835bf5de595dce1ab.js": "/react-tap-room-2/precache-manifest.6c2710f166af32f835bf5de595dce1ab.js",
+    "service-worker.js": "/react-tap-room-2/service-worker.js",
+    "static/css/main.66fc89a9.chunk.css.map": "/react-tap-room-2/static/css/main.66fc89a9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa34b439.js",
+    "static/js/2.7a1bc4d0.chunk.js",
+    "static/css/main.66fc89a9.chunk.css",
+    "static/js/main.3c246af0.chunk.js"
+  ]
+}
